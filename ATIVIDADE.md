@@ -1,12 +1,12 @@
-#Atividade de introdução a engenharia de software
+# Atividade de introdução a engenharia de software
 
 ----
 
-##Essa atividade tem o intuido de praticar os conheciomentos sobre a linguagem markdown
+## Essa atividade tem o intuido de praticar os conheciomentos sobre a linguagem markdown
 
 ----
 
-##coisas para fazer hoje em ordem 
+## coisas para fazer hoje em ordem 
 
 1. Fazer o código
 2. estudar para a prova
@@ -15,7 +15,7 @@
 
 ----
 
-##coisas para fazer hoje fora de ordem 
+## coisas para fazer hoje fora de ordem 
 
 - estudar para a prova 
 - ir ao banco 
@@ -24,7 +24,7 @@
 
 ----
 
-#codigo em C
+# codigo em C
 
 ----
 
